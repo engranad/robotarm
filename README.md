@@ -1,1 +1,1 @@
-usser interface for motors controoling panel using html &js 
+user interface for motors controlling panel using html &js 
